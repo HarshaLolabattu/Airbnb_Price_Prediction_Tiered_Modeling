@@ -185,6 +185,16 @@ README.md
 
 ---
 
+## 🔹 Model Results Preview
+
+### 📌 Per-city RMSE Comparison
+![Per City RMSE](figures/per_city_rmse.png)
+
+### 📌 SHAP Global Feature Importance
+![SHAP Plot](figures/shap_beeswarm.png)
+
+---
+
 ##  10. Final Takeaways
 
 - Tree-based methods show dominant reliability across markets
