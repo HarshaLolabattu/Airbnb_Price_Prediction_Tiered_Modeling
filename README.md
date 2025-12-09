@@ -63,6 +63,24 @@ columbus_listings.csv
 5. Run all notebook cells sequentially
 
 This yields identical results to those reported.
+## Data Snapshot Summary
+
+Table below documents the exact data month and listing counts used for each city, as required by the assignment.
+
+| City          | Tier   | Data Month   | Listings Count |
+|---------------|--------|--------------|----------------|
+| New York City | Big    | Oct 2025     | 36,111         |
+| Los Angeles   | Big    | Sept 2025    | 45,886         |
+| San Francisco | Big    | Sept 2025    | 14,351         |
+| Chicago       | Big    | June 2025    | 8,604          |
+| Austin        | Medium | June 2025    | 15,187         |
+| Seattle       | Medium | Sept 2025    | 6,996          |
+| Denver        | Medium | Sept 2025    | 4,910          |
+| Portland      | Medium | Sept 2025    | 4,425          |
+| Asheville     | Small  | June 2025    | 2,876          |
+| Santa Cruz    | Small  | June 2025    | 1,739          |
+| Salem         | Small  | Sept 2025    | 351            |
+| Columbus      | Small  | Sept 2025    | 2,877          |
 
 ---
 
