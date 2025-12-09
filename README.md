@@ -1,5 +1,13 @@
-# Airbnb Price Prediction — Tiered Market Modeling  
-### Assignment 4 — Machine Learning & Cross-Market Transfer Analysis
+#  Assignment 4 — Tiered Airbnb Price Prediction  
+### University at Buffalo — EAS 510 (Basics of AI)
+
+---
+
+## Student Information  
+**Name:** Harsha Lolabattu  
+**UBIT:** <harshaad> 
+**UBIT Number:** 50682313
+
 
 ---
 
